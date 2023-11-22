@@ -12,6 +12,7 @@ int main(int argc, char const *argv[])
         printf("1 - Inicializar\n");
         printf("2 - Tutorial\n");
         printf("3 - Sair\n");
+        printf("4 - Continuar\n");
 
         scanf("%d", &resultado);
     return 0;
